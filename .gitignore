@@ -4,9 +4,11 @@
 *.pyc
 *~
 
+main/old/*
+main/logs/*
+main/data/*
 _old/*
 cifs*
 
 
-single_level/data/projective/*
-single_level/data/rigid/*
+*.DS_Store

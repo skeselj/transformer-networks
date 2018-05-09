@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{voxelmorph}
+Guha Balakrishnan, Amy Zhao, Mert~R Sabuncu, John Guttag, and Adrian~V Dalca.
+\newblock An unsupervised learning model for deformable medical image
+  registration.
+\newblock {\em arXiv preprint arXiv:1802.02604}, 2018.
+
+\bibitem{flownet}
+Alexey Dosovitskiy, Philipp Fischer, Eddy Ilg, Philip Hausser, Caner Hazirbas,
+  Vladimir Golkov, Patrick van~der Smagt, Daniel Cremers, and Thomas Brox.
+\newblock Flownet: Learning optical flow with convolutional networks.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 2758--2766, 2015.
+
+\bibitem{stn}
+Max Jaderberg, Karen Simonyan, Andrew Zisserman, et~al.
+\newblock Spatial transformer networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2017--2025, 2015.
+
+\bibitem{warpnet}
+Angjoo Kanazawa, David~W Jacobs, and Manmohan Chandraker.
+\newblock Warpnet: Weakly supervised matching for single-view reconstruction.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3253--3261, 2016.
+
+\bibitem{snemi}
+Kisuk Lee, Jonathan Zung, Peter Li, Viren Jain, and H~Sebastian Seung.
+\newblock Superhuman accuracy on the snemi3d connectomics challenge.
+\newblock {\em arXiv preprint arXiv:1706.00120}, 2017.
+
+\bibitem{unflow}
+Simon Meister, Junhwa Hur, and Stefan Roth.
+\newblock Unflow: Unsupervised learning of optical flow with a bidirectional
+  census loss.
+\newblock {\em arXiv preprint arXiv:1711.07837}, 2017.
+
+\bibitem{colah}
+Chris Olah.
+\newblock Understanding convolutions.
+\newblock {\em colah's blog}, 2014.
+
+\bibitem{spynet}
+Anurag Ranjan and Michael~J Black.
+\newblock Optical flow estimation using a spatial pyramid network.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, volume~2, 2017.
+
+\bibitem{unet}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em International Conference on Medical image computing and
+  computer-assisted intervention}, pages 234--241. Springer, 2015.
+
+\bibitem{elastic_alignment}
+Stephan Saalfeld, Richard Fetter, Albert Cardona, and Pavel Tomancak.
+\newblock Elastic volume reconstruction from series of ultra-thin microscopy
+  sections.
+\newblock {\em Nature methods}, 9(7):717, 2012.
+
+\bibitem{capsule}
+Sara Sabour, Nicholas Frosst, and Geoffrey~E Hinton.
+\newblock Dynamic routing between capsules.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  3859--3869, 2017.
+
+\bibitem{voxelmorph_clone}
+Siyuan Shan, Xiaoqing Guo, Wen Yan, Eric~I Chang, Yubo Fan, Yan Xu, et~al.
+\newblock Unsupervised end-to-end learning for deformable medical image
+  registration.
+\newblock {\em arXiv preprint arXiv:1711.08608}, 2017.
+
+\bibitem{ssemnet}
+Inwan Yoo, David G.~C. Hildebrand, Willie~F. Tobin, Wei{-}Chung~Allen Lee, and
+  Won{-}Ki Jeong.
+\newblock ssemnet: Serial-section electron microscopy image registration using
+  a spatial transformer network with learned features.
+\newblock {\em CoRR}, abs/1707.07833, 2017.
+
+\bibitem{spynet_plus}
+Armand Zampieri, Guillaume Charpiat, and Yuliya Tarabalka.
+\newblock Coarse to fine non-rigid registration: a chain of scale-specific
+  neural networks for multimodal image alignment with application to remote
+  sensing.
+\newblock {\em arXiv preprint arXiv:1802.09816}, 2018.
+
+\end{thebibliography}

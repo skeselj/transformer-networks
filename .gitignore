@@ -1,0 +1,12 @@
+*.h5
+*.gif
+*.png
+*.pyc
+*~
+
+_old/*
+cifs*
+
+
+single_level/data/projective/*
+single_level/data/rigid/*
